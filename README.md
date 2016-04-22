@@ -12,3 +12,4 @@ Caused by: org.apache.poi.openxml4j.exceptions.InvalidFormatException: Package s
 	at org.apache.poi.openxml4j.opc.OPCPackage.open(OPCPackage.java:275)
 	at org.apache.tika.parser.microsoft.ooxml.OOXMLExtractorFactory.parse(OOXMLExtractorFactory.java:73)
 	... 2 more
+--------------------------
