@@ -1,6 +1,7 @@
 # MSExcelParse
 Sample file using Apache Tika to parse MS Excel file & OpenOffice Spreadsheet
 
+-------------------
 Create new test1.xls file to avoid below error during execution:
 Exception in thread "main" org.apache.tika.exception.TikaException: Error creating OOXML extractor
 	at org.apache.tika.parser.microsoft.ooxml.OOXMLExtractorFactory.parse(OOXMLExtractorFactory.java:123)
